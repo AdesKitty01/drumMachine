@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://eddieborbon.github.io/drum-machine2",
+  "homepage": "https://adeskitty01.github.io/drumMachine",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
